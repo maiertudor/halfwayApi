@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/halfway.iml" filepath="$PROJECT_DIR$/halfway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/halfway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/halfway_main.iml" group="halfway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/halfway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/halfway_test.iml" group="halfway" />
+    </modules>
+  </component>
+</project>
